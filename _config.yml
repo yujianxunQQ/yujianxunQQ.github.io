@@ -9,7 +9,7 @@ name: 亦枫
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./qqqqq.png
+avatar: file://root/project/yujianxunQQ.github.io/qqqqq.png
 
 #
 # Flags below are optional
