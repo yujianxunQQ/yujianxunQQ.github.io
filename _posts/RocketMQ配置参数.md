@@ -1,3 +1,11 @@
+---
+layout:	post
+title:	"RocketMQ配置参数"
+date:	2019-01-21
+author:	"yifeng"
+catalog:	true
+---
+
 # 所属集群名字
 brokerClusterName=rocketmq-cluster
 
